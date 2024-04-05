@@ -1,4 +1,4 @@
-#App description
+# App description
 This app is did by following "Modern React with Redux" course on Udemy. It allows you to create na modify two playlists, one with movie's title and another with song's titles, which are generated automaticly by using FakerJS. Follow Steps bellow to use this app on your device.
 
 # Getting Started with Create React App
